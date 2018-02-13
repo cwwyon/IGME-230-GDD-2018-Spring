@@ -1,0 +1,5 @@
+# Eating Enemies
+
+## Description 
+*You can control the ojbect to eat others. If you eat a bumb, the time will decrease by 10s and the total time is 60s.
+*If you cannot reach 100 pt in 60s, you will lose.
